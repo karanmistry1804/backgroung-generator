@@ -1,0 +1,32 @@
+#gradient{
+	text-align: center;
+	
+	background: linear-gradient(to right,purple,lightgrey);
+}
+
+input[type="color"]{
+     width: 1em;
+     height: 1em;
+     border-radius: 50%;
+     
+}
+
+h1{
+	text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+	color: rgba(0,15,3,.5);
+	letter-spacing: .6em;
+}
+
+h3{
+	text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+	color: rgba(15,5,0,.7);
+	letter-spacing: .3em;
+}
+h4{
+	font-size: .7em;
+    font-family: 'Bebas Neue', cursive;
+	color: rgba(15,5,0,.7);
+	letter-spacing: .3em;
+}
